@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Felipe\\Desktop\\Product_Registration_Algorithm\\Product_Registration_Algorithm.csproj": {}
+    "C:\\Users\\Felipe\\OneDrive\\Área de Trabalho\\Senai\\C#\\Product_Registration_Algorithm\\Product_Registration_Algorithm.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Felipe\\Desktop\\Product_Registration_Algorithm\\Product_Registration_Algorithm.csproj": {
+    "C:\\Users\\Felipe\\OneDrive\\Área de Trabalho\\Senai\\C#\\Product_Registration_Algorithm\\Product_Registration_Algorithm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Felipe\\Desktop\\Product_Registration_Algorithm\\Product_Registration_Algorithm.csproj",
+        "projectUniqueName": "C:\\Users\\Felipe\\OneDrive\\Área de Trabalho\\Senai\\C#\\Product_Registration_Algorithm\\Product_Registration_Algorithm.csproj",
         "projectName": "Product_Registration_Algorithm",
-        "projectPath": "C:\\Users\\Felipe\\Desktop\\Product_Registration_Algorithm\\Product_Registration_Algorithm.csproj",
+        "projectPath": "C:\\Users\\Felipe\\OneDrive\\Área de Trabalho\\Senai\\C#\\Product_Registration_Algorithm\\Product_Registration_Algorithm.csproj",
         "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Felipe\\Desktop\\Product_Registration_Algorithm\\obj\\",
+        "outputPath": "C:\\Users\\Felipe\\OneDrive\\Área de Trabalho\\Senai\\C#\\Product_Registration_Algorithm\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -9,7 +9,8 @@ namespace Product_Registration_Algorithm
 
             int counter = 0;
             int choice = 0;
-            string answer = "";
+            string answer;
+            string answer2 = "";
             
 
             string[] names = new string [3];
@@ -58,7 +59,6 @@ namespace Product_Registration_Algorithm
                     Console.Write($"Please type in Product {counter + 1} price:  $ ");
                     prices[counter] = float.Parse(Console.ReadLine());
                     Console.WriteLine();
-
                     Console.WriteLine();
 
                     do {
@@ -66,16 +66,16 @@ namespace Product_Registration_Algorithm
                     Console.WriteLine($"Is Product {names[counter]} on sale?  [yes = y] or [no = n] \n ");
                     answer = Console.ReadLine().ToLower();
                     
-                    if (answer == "y")  {sales[counter] = true;}
+                    if (answer == "y")  {answer2 = "on sale";}
 
-                    else if (answer == "n") {sales[counter] = false;}
+                    else if (answer == "n") {answer2 = "not on sale";}
 
                     else if (answer != "y" && answer != "n") {
 
-                        
                         Console.WriteLine();
                         Console.WriteLine("Invalid option");
                         Console.WriteLine();
+                        
                        }
 
                     
@@ -87,11 +87,9 @@ namespace Product_Registration_Algorithm
                 
             } while (counter < 3);
                 
-            
-        } else {
-                
                 Console.WriteLine();
-                Console.WriteLine("Limit for registering Products exceeded");
+                Console.WriteLine();
+                Console.WriteLine("Limit for Product Registration reached");
                 Console.WriteLine();
                
                }
@@ -103,7 +101,7 @@ namespace Product_Registration_Algorithm
         case (2): 
 
                 Console.WriteLine();
-                Console.WriteLine("Here is the list of the Registered Products:");
+                Console.WriteLine("Here is your list of registered Products:");
                 Console.WriteLine();
                 Console.WriteLine();
 
@@ -111,7 +109,7 @@ namespace Product_Registration_Algorithm
                 {
                 
                 Console.WriteLine();    
-        Console.WriteLine($"name: {names[i]}  |  price: ${prices[i].ToString("N2")}  |  on sale: {sales[i]}");
+Console.WriteLine($"name: {names[i]} | price: ${prices[i].ToString("N2")} | current status: {answer2}");
                 
                 }
 
@@ -135,9 +133,7 @@ namespace Product_Registration_Algorithm
 
     
     
-    } while (choice != 3);
-        
-        
+        } while (choice != 3);
         
         
         }
