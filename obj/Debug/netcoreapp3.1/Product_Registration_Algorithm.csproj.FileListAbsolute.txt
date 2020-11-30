@@ -1,0 +1,13 @@
+C:\Users\Felipe\Desktop\Product_Registration_Algorithm\obj\Debug\netcoreapp3.1\Product_Registration_Algorithm.csprojAssemblyReference.cache
+C:\Users\Felipe\Desktop\Product_Registration_Algorithm\obj\Debug\netcoreapp3.1\Product_Registration_Algorithm.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\Product_Registration_Algorithm\obj\Debug\netcoreapp3.1\Product_Registration_Algorithm.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\Product_Registration_Algorithm\obj\Debug\netcoreapp3.1\Product_Registration_Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\Product_Registration_Algorithm\bin\Debug\netcoreapp3.1\Product_Registration_Algorithm.exe
+C:\Users\Felipe\Desktop\Product_Registration_Algorithm\bin\Debug\netcoreapp3.1\Product_Registration_Algorithm.deps.json
+C:\Users\Felipe\Desktop\Product_Registration_Algorithm\bin\Debug\netcoreapp3.1\Product_Registration_Algorithm.runtimeconfig.json
+C:\Users\Felipe\Desktop\Product_Registration_Algorithm\bin\Debug\netcoreapp3.1\Product_Registration_Algorithm.runtimeconfig.dev.json
+C:\Users\Felipe\Desktop\Product_Registration_Algorithm\bin\Debug\netcoreapp3.1\Product_Registration_Algorithm.dll
+C:\Users\Felipe\Desktop\Product_Registration_Algorithm\bin\Debug\netcoreapp3.1\Product_Registration_Algorithm.pdb
+C:\Users\Felipe\Desktop\Product_Registration_Algorithm\obj\Debug\netcoreapp3.1\Product_Registration_Algorithm.dll
+C:\Users\Felipe\Desktop\Product_Registration_Algorithm\obj\Debug\netcoreapp3.1\Product_Registration_Algorithm.pdb
+C:\Users\Felipe\Desktop\Product_Registration_Algorithm\obj\Debug\netcoreapp3.1\Product_Registration_Algorithm.genruntimeconfig.cache
